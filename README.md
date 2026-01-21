@@ -83,7 +83,8 @@ A retail company needs to understand its sales performance, customer behavior, a
 
 ### 1. Electronics Dominates Revenue
 
-![Revenue by Category](visuals/revenue_by_category.png)
+![Revenue by Category](visuals/1_revenue_by_category.png)
+
 
 **Data:**
 - **Electronics:** $310,265 (40.5% of total revenue)
@@ -100,7 +101,7 @@ Focus inventory investment on Electronics while maintaining adequate stock in ot
 
 ### 2. November and February Drive Peak Sales
 
-![Monthly Sales Trend](visuals/monthly_sales_trend.png)
+![Monthly Sales Trend](visuals/2_monthly_sales_trend.png)
 
 **Data:**
 - **Highest Month:** November - $89,450 (holiday shopping season)
@@ -119,7 +120,8 @@ Focus inventory investment on Electronics while maintaining adequate stock in ot
 
 ### 3. Age Group 36-45 Is the Highest-Spending Segment
 
-![Age Group Spending](visuals/age_group_spending.png)
+![Age Group Spending](visuals/5_age_group_spending.png)
+
 
 **Data:**
 - **36-45 age group:** $156,890 (20.5% of total revenue)
@@ -143,7 +145,8 @@ Middle-aged customers (36-45) have the highest purchasing power, likely due to e
 
 ### 4. Peak Sales Hours: 2 PM and 7 PM
 
-![Peak Sales Hours](visuals/peak_sales_hours.png)
+![Peak Sales Hours](visuals/4_sales_heatmap.png)
+
 
 **Data:**
 - **Afternoon Peak:** 2 PM - $45,680 (lunch break shopping)
@@ -163,7 +166,8 @@ Middle-aged customers (36-45) have the highest purchasing power, likely due to e
 
 ### 5. Friday and Saturday Drive Weekend Sales
 
-![Day of Week Sales](visuals/day_of_week_sales.png)
+![Day of Week Sales](visuals/3_sales_by_day.png)
+
 
 **Data:**
 - **Saturday:** $125,450 (highest sales day - 16.4% of weekly revenue)
@@ -183,7 +187,8 @@ Weekend shopping accounts for 32% of weekly revenue. Friday-Saturday generates a
 
 ### 6. Top 10 Customers Account for 8% of Revenue
 
-![Top 10 Customers](visuals/top_10_customers.png)
+![Top 10 Customers](visuals/8_top_customers.png)
+
 
 **Data:**
 - **Top Customer:** Customer #238 - $4,520 total spend
@@ -204,7 +209,8 @@ Small group of high-value customers contributes disproportionately to revenue. V
 
 ### 7. Gender Purchasing Patterns
 
-![Category Gender Breakdown](visuals/category_gender_breakdown.png)
+![Category Gender Breakdown](visuals/7_gender_analysis.png)
+
 
 **Data:**
 - **Female Customers:** 52% of total revenue ($398,520)
