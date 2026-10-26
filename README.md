@@ -360,6 +360,8 @@ Gender preferences vary significantly by category. Beauty is female-dominated wh
 
 ### Year 1 Financial Projection
 
+*These figures are projections from stated assumptions (for example an 8% price lift). They are estimates, not measured results.*
+
 **Revenue Increases:**
 - Beauty promotional campaign: $46,358
 - VIP retention program: $30,670
@@ -550,4 +552,4 @@ python python/retail_analysis.py
 
 ---
 
-*This project demonstrates practical SQL skills for business analytics: from data cleaning to actionable insights with measurable ROI.*
+*This project demonstrates practical SQL skills for business analytics: from data cleaning to actionable insights with projected ROI.*
